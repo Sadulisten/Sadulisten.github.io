@@ -1,0 +1,10 @@
+body {
+	background-color:#121415 !important;
+}
+
+#content {
+	margin: auto;
+  	width: 50%;
+  	background-color: rgb(25, 28, 30);
+  	padding: 10px;
+}
